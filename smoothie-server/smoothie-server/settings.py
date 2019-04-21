@@ -119,9 +119,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = "/home/cedar/smoothie-server/smoothie-server/static"
+STATIC_ROOT = "/home/cedar/mayo/smoothie-server/staticfiles"
 
 STATICFILES_DIRS = [
     # use to collect admin files for serving in production
-    "/home/cedar/smoothie-server/smoothie-server/.venv/lib/python3.6/site-packages/django/contrib/admin/static/admin"
+    "/home/cedar/mayo/smoothie-server/.venv/lib/python3.6/site-packages/django/contrib/admin/static/admin"
 ]
