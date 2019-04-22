@@ -18,6 +18,10 @@ staticfiles/*
 logs/*
 !logs/README.md
 
+# DATABASE
+data/*
+!data/README.md
+
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
 *.py[cod]
