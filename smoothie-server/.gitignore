@@ -10,7 +10,13 @@ local_settings.py
 db.sqlite3
 media
 
-#staticfiles/
+# STATIC FILES
+staticfiles/*
+!staticfiles/README.md
+
+# LOGS
+logs/*
+!logs/README.md
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
