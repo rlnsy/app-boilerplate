@@ -5,6 +5,9 @@ import App from './components/App';
 import { BrowserRouter as Router} from 'react-router-dom'
 
 const root = document.getElementById('root');
+
+// Loads app at /app subdomain.
+// Change basename to root ('/') when running locally
 const load = () => render((
     <AppContainer>
       <Router basename='/app'>
