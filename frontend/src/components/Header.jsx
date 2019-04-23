@@ -7,7 +7,8 @@ export default class Header extends React.Component {
       <header className="header">
         <nav>
           <ul>
-            <li> <Link to='/'> Home </Link></li>
+              <li> <Link to='/'> Home </Link></li>
+              <li> <Link to='/other'> Other </Link></li>
           </ul>
         </nav>
       </header>
