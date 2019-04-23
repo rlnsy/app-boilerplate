@@ -6,3 +6,11 @@ for apache web server.
 ![Project Structure Diagram][diagram]
 
 [diagram]: structure.png "Project Structure"
+
+### Relevant Documentation:
+
+* https://neutrinojs.org/usage.html
+* https://reactjs.org/docs/getting-started.html
+* https://docs.djangoproject.com/en/2.2/howto/static-files/deployment/
+* https://docs.djangoproject.com/en/2.2/howto/static-files/
+* https://docs.djangoproject.com/en/2.2/
