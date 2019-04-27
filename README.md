@@ -14,3 +14,4 @@ for apache web server.
 * https://docs.djangoproject.com/en/2.2/howto/static-files/deployment/
 * https://docs.djangoproject.com/en/2.2/howto/static-files/
 * https://docs.djangoproject.com/en/2.2/
+* https://facebook.github.io/react-native/docs/getting-started
